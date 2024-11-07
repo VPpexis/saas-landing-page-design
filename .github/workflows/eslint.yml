@@ -1,0 +1,30 @@
+name: PR Check
+
+on:
+    pull_request:
+        branches:
+            - main
+
+jobs:
+    lint:
+        name: Run ESLint
+        runs-on: ubuntu-latest
+
+        steps:
+            # Step 1: Checkout the code
+            - name: Checkout Repository
+              uses: actions/checkout@v2
+            
+            # Step 2: Set up Node.js
+            - name: Set up Node.js
+              uses: actions/setup-node@v3
+              with:
+                  node-version: 18
+            
+            # Step 3: Install Dependencies
+            - name: Install Dependencies
+              run: npm install
+            
+            # Step 4: Run ESLint
+            - name: Run ESLint
+              run: npm run lint
