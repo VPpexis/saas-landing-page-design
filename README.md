@@ -23,7 +23,7 @@
   <a href="#license">License</a>
 </p>
 
-![hippo](https://i.imgur.com/6MLfteK.gif)
+![https://i.imgur.com/6MLfteK.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTMwMXM4eHc2ZjYwOW00YzJrcng3N2lkMjU4NXF4ZmpicTF1NzJqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSrGiZKNlj0l2vHkJl/giphy.gif)
 
 ## Key Features
 
