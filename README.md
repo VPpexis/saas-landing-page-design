@@ -24,7 +24,7 @@
 </p>
 
 <div align="center">
-  <img src="[path-to-your-gif.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTMwMXM4eHc2ZjYwOW00YzJrcng3N2lkMjU4NXF4ZmpicTF1NzJqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSrGiZKNlj0l2vHkJl/giphy.gif)" alt="GIF Description" width="600">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTMwMXM4eHc2ZjYwOW00YzJrcng3N2lkMjU4NXF4ZmpicTF1NzJqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSrGiZKNlj0l2vHkJl/giphy.gif" alt="GIF Description" width="600">
 </div>
 
 ## Key Features
